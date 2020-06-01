@@ -1,5 +1,5 @@
 What to do
 
-- Learn to code
-- Code
-- More code
+- _Learn to code_
+- **Code**
+- `More code`
