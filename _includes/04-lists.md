@@ -1,5 +1,7 @@
 What to do
 
-- _Learn to code_
-- **Code**
-- `More code`
+- _Italic_
+- __this is bold__
+- _ *this is italic*_
+- __this is bold__
+- _something **cool** here_
