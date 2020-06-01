@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+What to do
+
+- Learn to code
+- Code
+- More code
